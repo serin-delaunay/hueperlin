@@ -99,3 +99,18 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+*.ipynb
+*.pck
+db/rootmodules_cache
+*.sqlite
+*.ipynb3vhdqg
+*.json
+*.db
+security/notebook_cookie_secret
+*.js
+*.css
+startup/README
+security/notebook_secret
+*.bak
+notes.txt
+Untitled.txt
